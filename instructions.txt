@@ -1,0 +1,35 @@
+React Router Outlet
+
+If you want to load component using URL Patterns
+
+react-router-dom library
+
+
+props.children === Outlet
+
+web Sketleton
+
+1. header
+2. main
+		2.1 aside
+		2.2 section <--- Outlet component
+3. footer
+
+
+
+Home
+Login
+Register
+
+
+
+
+https://startbootstrap.com/theme/clean-blog
+
+/   -> index.html
+/about ---> about.html
+/contact ----> contact
+/post -----> post.html
+
+
+
